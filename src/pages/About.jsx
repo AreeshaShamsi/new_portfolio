@@ -62,7 +62,7 @@ export default function About() {
               
               <div>
                <h2 className="mb-8 font-['Playfair_Display',serif] text-[clamp(2.2rem,4vw,3.4rem)] font-extrabold leading-[1.1] tracking-[-0.02em] text-stone-900">
-  Building things
+  Building things together
   <br />
   that actually work.
 </h2>
